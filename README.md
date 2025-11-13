@@ -341,7 +341,7 @@ Accessed via: `http://[EC2-PUBLIC-IP]:5000`
 
 **📸 Screenshot: Final Webpage Dashboard**
 
-![alt text](Screenshots/Webpage Result.png)
+![alt text](<Screenshots/Webpage Result.png>)
 
 *Screenshot shows the browser displaying "📊 Athena Orders Dashboard" with all 5 query results rendered as HTML tables*
 
